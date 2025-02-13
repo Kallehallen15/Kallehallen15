@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Kallehallen15
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning hacking with python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Kalle Hallen! 👋
 
-<!---
-Kallehallen15/Kallehallen15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **DevOps Engineer | Cloud Enthusiast | Automation Expert**  
+
+I'm passionate about automating workflows, optimizing cloud infrastructure, and building scalable systems. With expertise in **Python, Docker, Linux, and AWS**, I specialize in bridging the gap between development and operations to ensure smooth CI/CD pipelines and efficient cloud deployments.
+
+## 🔧 Tech Stack & Skills  
+- **Languages:** Python, Bash  
+- **DevOps & Cloud:** AWS, Docker, Kubernetes, Terraform  
+- **CI/CD & Automation:** GitHub Actions, Jenkins, Ansible  
+- **Operating Systems:** Linux (Ubuntu, CentOS), Windows  
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
+
+## 📌 What I'm Working On  
+- 🚀 Automating cloud deployments with Terraform & Ansible  
+- 🏗️ Enhancing CI/CD workflows for seamless software delivery  
+- 📊 Exploring observability tools for better system insights  
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn](#)  
+- 🐦 [Twitter](#)  
+- 🌐 [Portfolio](#)  
+
+Feel free to explore my repositories and contribute to open-source projects! Let's build something amazing together. 🚀  
