@@ -6,11 +6,9 @@ I'm passionate about automating workflows, optimizing cloud infrastructure, and 
 
 ## 🔧 Tech Stack & Skills  
 - **Languages:** Python, Bash  
-- **DevOps & Cloud:** AWS, Docker, Kubernetes, Terraform  
-- **CI/CD & Automation:** GitHub Actions, Jenkins, Ansible  
+- **DevOps & Cloud:** AWS, Docker, Kubernetes 
+- **CI/CD & Automation:** GitHub Actions
 - **Operating Systems:** Linux (Ubuntu, CentOS), Windows  
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
-
 ## 📌 What I'm Working On  
 - 🚀 Automating cloud deployments with Terraform & Ansible  
 - 🏗️ Enhancing CI/CD workflows for seamless software delivery  
